@@ -124,3 +124,8 @@ td {
     text-align: left;
     border: 1px solid #080808;
 }
+
+/* Style for the unchecked checkbox */
+.checked-checkbox {
+    opacity: 0.5; /* Set the opacity to make it appear blurred or semi-transparent */
+}
